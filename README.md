@@ -53,8 +53,6 @@ Use [Composer](https://getcomposer.org/) to install SocialShare:
 # Usage
 
 * [Simple example](examples/buttons.php)
-* [Using SocialShare with Wordpress](https://dunglas.fr/2014/01/using-socialshare-with-wordpress-to-create-custom-social-networks-buttons/)
-* [Twig extension](https://github.com/neemzy/share-extension)
 
 ## Cache
 
